@@ -1,0 +1,3 @@
+Pippo Traliccio
+Guatemala
+Meta FrontEnd
