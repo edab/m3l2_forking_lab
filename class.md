@@ -1,3 +1,3 @@
-Pippo Traliccio
-Guatemala
-Meta FrontEnd
+Edab
+Amersfoort
+Meta-Front-End-Developer-PC
